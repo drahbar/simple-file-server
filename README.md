@@ -5,6 +5,7 @@ Simple in memory file server with basic API access.
 ## Getting Started
 
 Clone the project
+
 run the following commands from the root project dir
 
 ```. venv/bin/activate```
@@ -17,5 +18,7 @@ run the following commands from the root project dir
 
 ## Assumptions
 File extensions are correct
+
 File names are unique otherwise files will be overwritten
+
 All usernames/passwords/filenames are in English
