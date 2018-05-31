@@ -6,6 +6,8 @@ Simple in memory file server with basic API access.
 
 Clone the project
 
+Install pip and virtualenv
+
 run the following commands from the root project dir
 
 ```. venv/bin/activate```
